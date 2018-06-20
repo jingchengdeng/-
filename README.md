@@ -2,7 +2,7 @@
 
 ###  全景实现 Html5
 ###  h5构建： ih5
-###  https://file7a8344f633cd.iamh5.cn/v3/idea/pBQgVHoB
+###  [最新版本]H5（https://file7a8344f633cd.iamh5.cn/v3/idea/pBQgVHoB）
 
 ## 开发版本： 
 
