@@ -1,0 +1,8 @@
+<!--index.wxml-->
+
+<view class="container">
+
+  <web-view src="https://file7a8344f633cd.iamh5.cn/v3/idea/pBQgVHoB">
+  </web-view>
+
+</view>
